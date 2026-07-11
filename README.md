@@ -55,4 +55,4 @@ Les captures sont dans le dossier `captures` : le script complet, le résultat d
 * rendre un script relançable sans erreur (idempotent) grâce à un bloc de nettoyage
 * lire et comprendre les messages d'erreur pour corriger un script étape par étape
 
-C'est le troisième d'une série de projets où j'apprends à administrer des serveurs Windows et Linux. Après avoir fait Active Directory à la main (Projet 1) et un serveur Linux sécurisé (Projet 2), ce projet montre que je sais aussi **automatiser** l'administration, ce qui est une compétence clé pour un poste en systèmes et réseaux.
+
