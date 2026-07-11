@@ -9,8 +9,8 @@ Ici, je fais la même chose mais **automatiquement, avec un script PowerShell**.
 ## Ce que j'ai utilisé
 
 * VirtualBox pour la virtualisation
-* Windows Server 2022 (le serveur SRV-AD01 du Projet 1, déjà contrôleur de domaine)
-* Le domaine `rym.local` (créé dans le Projet 1)
+* Windows Server 2022 
+* Le domaine `rym.local` 
 * PowerShell ISE pour écrire et lancer le script
 * Le module ActiveDirectory de PowerShell
 
