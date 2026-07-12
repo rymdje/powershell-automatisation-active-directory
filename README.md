@@ -1,10 +1,8 @@
-# Automatisation PowerShell - Active Directory
+# Automatisation Active Directory - PowerShell
 
-## Le contexte
+Projet perso pour apprendre à automatiser les tâches d'administration au lieu de tout faire à la main.
 
-Ce projet vient compléter mon premier projet sur Active Directory. Dans le Projet 1, j'avais créé toute une infrastructure Active Directory **à la main** (unités d'organisation, utilisateurs, groupes) pour bien comprendre comment ça marche.
-
-Ici, je fais la même chose mais **automatiquement, avec un script PowerShell**. Au lieu de cliquer pour créer chaque utilisateur un par un, le script crée toute l'infrastructure d'un coup. C'est ce que font les administrateurs en entreprise : quand il faut créer 10, 50 ou 200 comptes, on ne le fait pas à la main, on automatise.
+L'idée : écrire un script PowerShell qui construit une infrastructure Active Directory complète (une entreprise fictive avec ses services et ses utilisateurs) en une seule exécution. Ça montre le passage du "clic à clic" à l'automatisation, une compétence clé en administration système.
 
 ## Ce que j'ai utilisé
 
